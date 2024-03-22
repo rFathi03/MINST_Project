@@ -6,10 +6,9 @@ It is a dataset of handwritten numbers from 0 to 9. MNIST has a training set of 
 
 
 ## Collaborators 
-- Roaa Fathi Nada
+- [Roaa Fathi](https://github.com/rFathi03)
 
-- Selsabeel Asim Ali Elbagir
+- [Selsabeel Asim](https://github.com/SelsabeelA)
 
-- Basma Mahmoud Hashem
-
-- Howida Adel Abd El-Halim
+- [Basma Mahmoud](https://github.com/Basma2423)
+- [Howida Adel Abd El-Halim](https://github.com/howidaabdelhalim)
